@@ -2,7 +2,7 @@
 
 #ini adalah Game Flip Coin / Coint Tost
  
- Background
+ ###Feature
  1. kita adalah player yang akan bermain melawan komputer
  2. untuk memenangkan game ini kita harus mencapai angka 5
  3. setiap putaran kita akan diminta memilih head atau tail dari sebuah coin dan begitu juga computer (pilihan kita boleh sama)
