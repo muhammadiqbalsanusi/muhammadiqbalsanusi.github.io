@@ -10,3 +10,5 @@
  5. untuk memilih click tombol head atau tail
 
 selesai
+
+ayo mainkan game kamu https://muhammadiqbalsanusi.github.io/index.html
